@@ -1,0 +1,19 @@
+# .gitignore
+
+# Node modules
+node_modules/
+
+# Banco de dados e credenciais locais
+*.db
+.env
+*.env
+*.json
+
+# Logs
+logs
+*.log
+
+# Cache
+.cache
+dist
+build
